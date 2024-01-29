@@ -1,0 +1,17 @@
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.questionsList {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

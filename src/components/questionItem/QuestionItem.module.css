@@ -1,0 +1,16 @@
+.questionItem{
+    background: teal;
+    padding-inline: 10px;
+    padding-block: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 0 1.2px rgb(172, 112, 227);
+    /* gap: 20px; */
+}
+.infoBox{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
